@@ -1,0 +1,108 @@
+
+h1{
+	size: 20px;
+	text-align: center;
+}
+
+p{
+	padding: 10px;
+}
+body{
+	background-image: url('.././images/background.jpg');
+	background-size: cover;
+	margin: 10px;
+	padding: 20px;
+
+}
+
+table{
+	width: 70%;
+	float:left;
+
+}
+
+table.table1 {
+	width: 10%;
+}
+
+tr, td {
+
+	border: 1px solid black;
+	width: 200px;
+}
+
+.login, .registration{
+text-align: center;
+	width: 100%;
+}
+
+.search{
+
+	float:left;
+	width: 50%;
+}
+.search2{
+
+
+}
+
+.login2{
+	text-align: center;
+	width: 80%;
+
+}
+
+
+.name, .surname, .date, .email, .password, .input{
+	padding: 10px;
+}
+
+input[type=date]{
+	width: 160px;
+}
+
+.type{
+	width: 160px;
+}
+
+.column{
+	float: left;
+	width: 100%;
+	padding: 10px;
+}
+
+
+.button{
+
+	width: 160px;
+	background: darkgrey;
+}
+
+.button:hover {
+	background: dimgrey;
+	color: white;
+}
+
+.panel{
+	width: 100%;
+	text-align: center;
+	padding: 100px;
+
+}
+
+
+.userName{
+	width: 200px;
+	text-align: center;
+}
+
+.goBack. menu_options{
+	text-align: center;
+	width: 100%;
+}
+.footer{
+	text-align: center;
+	width: 100%;
+	padding-top: 100px;
+	font-size: 12px;
+}
